@@ -1,0 +1,9 @@
+D:\VS\GruulSkuul\HEM02\HEM02\bin\Release\netstandard2.0\HEM02.deps.json
+D:\VS\GruulSkuul\HEM02\HEM02\bin\Release\netstandard2.0\HEM02.dll
+D:\VS\GruulSkuul\HEM02\HEM02\bin\Release\netstandard2.0\HEM02.pdb
+D:\VS\GruulSkuul\HEM02\HEM02\obj\Release\netstandard2.0\HEM02.csproj.CoreCompileInputs.cache
+D:\VS\GruulSkuul\HEM02\HEM02\obj\Release\netstandard2.0\HEM02.AssemblyInfoInputs.cache
+D:\VS\GruulSkuul\HEM02\HEM02\obj\Release\netstandard2.0\HEM02.AssemblyInfo.cs
+D:\VS\GruulSkuul\HEM02\HEM02\obj\Release\netstandard2.0\HEM02.dll
+D:\VS\GruulSkuul\HEM02\HEM02\obj\Release\netstandard2.0\HEM02.pdb
+D:\VS\GruulSkuul\HEM02\HEM02\obj\Release\netstandard2.0\HEM02.csprojAssemblyReference.cache
